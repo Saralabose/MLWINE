@@ -1,0 +1,2 @@
+# MLWINE
+The project aims to predict the quality of wine, which shows how you can use DATA SCIENCE to understand what makes wine taste good! It also gives a fair glimpse of what data science is all about. The quality of wine is determined by adding different quantities of different volatile chemicals and this can be calculated by multi regression method and followed by the efficiency of the predictors. By using IBM Watson studio the code is attached and an website is created using NODE RED. 
